@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# WELCOME TO THE TIME MONITOR APP!!
+
+App for monitoring the time you spend on your various projects
+
+ON DEVELOPMENT!!!!
+
+Done:
+- clock timer with button on&off
+- several buttons for different projects
+
+Working on:
+- integration with google sheet api to store project list there and store times spend on projects everyday
+- input form to create new project buttons
+- delete buttons & projects from list
+- design
+
+
+##Technologies
+###Frontend
+React.js + Bootstrap (CDN)
+
+###Backend
+Node.js + Express.js + googleAPI
+
+
+#REACT INSTRUCTIONS
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
